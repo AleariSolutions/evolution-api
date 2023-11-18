@@ -38,7 +38,7 @@ ENV CLEAN_STORE_CONTACTS=true
 ENV CLEAN_STORE_CHATS=true
 
 ENV DATABASE_ENABLED=true
-ENV DATABASE_CONNECTION_URI='mongodb://mongo:9e[a)D$e{VVWwj#U@aleari-typebot_evolution-api-mongodb:27017'
+ENV DATABASE_CONNECTION_URI='mongodb://mongo:EW5TD988x12aasghTY@aleari-typebot_evolution-api-mongodb:27017'
 ENV DATABASE_CONNECTION_DB_PREFIX_NAME=evolution
 
 ENV DATABASE_SAVE_DATA_INSTANCE=true
