@@ -14,7 +14,8 @@ COPY ./package.json .
 ENV TZ=America/Sao_Paulo
 ENV DOCKER_ENV=true
 
-ENV SERVER_URL=http://localhost:8080
+ENV SERVER_TYPE=https
+ENV SERVER_URL=https://api-chat.aleari.com.br
 
 ENV CORS_ORIGIN=*
 ENV CORS_METHODS=POST,GET,PUT,DELETE
